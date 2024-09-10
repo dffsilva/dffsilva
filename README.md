@@ -49,7 +49,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dffsilva/dffsilva/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  
 </div>
 
 <hr/>
@@ -62,10 +62,17 @@
 </div>
 
 
-<br/><br/>
+
+
+<hr/>
+<p align="center"><img style="width: 80%" src="./assets/terminal.gif" alt="terminal cv gif" />
+</p>
+
 
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab;" />
 </h3>
+
+
 
